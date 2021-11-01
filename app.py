@@ -9,7 +9,7 @@ def hello_world():
             <input name="password" type="hidden" value="notcorrectpassword">
             <button>sign In</button>
         </form>
-        <!-- Correct Password is PopOSIsBad -->
+        <!-- Correct Password is OkaKoro -->
     </html>
     """
 
