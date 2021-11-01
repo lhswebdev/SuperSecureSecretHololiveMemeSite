@@ -16,7 +16,7 @@ def hello_world():
 @app.route("/login", methods=['POST'])
 def login():
     data = request.form["password"]
-    if (data == "PopOSIsBad"):
+    if (data == "OkaKoro"):
         return """
         <img src="https://img.ifunny.co/images/243fbc3362b4824fdc85221fa2520843d6b9b3e0712afbd4cc1cec55cead67bc_1.jpg" alt="">
 <img src="https://i.kym-cdn.com/photos/images/original/002/068/730/c9a.jpg" alt="">
